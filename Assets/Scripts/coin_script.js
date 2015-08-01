@@ -10,8 +10,8 @@ function Update () {
 	
 }
 
-function OnTriggerEnter2D(other : Collider2D){
-	animator.SetBool("jump", true);
-	yield WaitForSeconds(1);
-	Destroy(gameObject);
-}
+//function OnTriggerEnter2D(other : Collider2D){
+	//animator.SetBool("jump", true);
+	//yield WaitForSeconds(1);
+	//Destroy(gameObject);
+//}
