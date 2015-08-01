@@ -10,9 +10,17 @@ function Update () {
 	
 }
 
+<<<<<<< HEAD
 function OnTriggerEnter2D(other : Collider2D){
 	animator.SetBool("jump", true);
 	// them 2 s cho dep
 	yield WaitForSeconds(2);
 	Destroy(gameObject);
 }
+=======
+//function OnTriggerEnter2D(other : Collider2D){
+	//animator.SetBool("jump", true);
+	//yield WaitForSeconds(1);
+	//Destroy(gameObject);
+//}
+>>>>>>> origin/master
