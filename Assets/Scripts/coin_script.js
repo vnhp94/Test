@@ -27,4 +27,4 @@ function OnTriggerEnter2D(other : Collider2D){
 
 //VUPTPS02028 was here
 
-Hello my name minh thu
+Hello my name is minh thu
