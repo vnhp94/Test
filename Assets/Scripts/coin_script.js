@@ -12,6 +12,7 @@ function Update () {
 
 function OnTriggerEnter2D(other : Collider2D){
 	animator.SetBool("jump", true);
-	yield WaitForSeconds(1);
+	// them 2 s cho dep
+	yield WaitForSeconds(2);
 	Destroy(gameObject);
 }
