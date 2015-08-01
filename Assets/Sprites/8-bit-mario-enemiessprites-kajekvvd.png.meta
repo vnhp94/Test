@@ -1,0 +1,2341 @@
+fileFormatVersion: 2
+guid: 40e6f01eb89daa443925c2734f3698bc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 8-bit-mario-enemiessprites-kajekvvd
+    21300002: 8-bit-mario-enemiessprites-kajekvvd_0
+    21300004: 8-bit-mario-enemiessprites-kajekvvd_1
+    21300006: 8-bit-mario-enemiessprites-kajekvvd_2
+    21300008: 8-bit-mario-enemiessprites-kajekvvd_3
+    21300010: 8-bit-mario-enemiessprites-kajekvvd_4
+    21300012: 8-bit-mario-enemiessprites-kajekvvd_5
+    21300014: 8-bit-mario-enemiessprites-kajekvvd_6
+    21300016: 8-bit-mario-enemiessprites-kajekvvd_7
+    21300018: 8-bit-mario-enemiessprites-kajekvvd_8
+    21300020: 8-bit-mario-enemiessprites-kajekvvd_9
+    21300022: 8-bit-mario-enemiessprites-kajekvvd_10
+    21300024: 8-bit-mario-enemiessprites-kajekvvd_11
+    21300026: 8-bit-mario-enemiessprites-kajekvvd_12
+    21300028: 8-bit-mario-enemiessprites-kajekvvd_13
+    21300030: 8-bit-mario-enemiessprites-kajekvvd_14
+    21300032: 8-bit-mario-enemiessprites-kajekvvd_15
+    21300034: 8-bit-mario-enemiessprites-kajekvvd_16
+    21300036: 8-bit-mario-enemiessprites-kajekvvd_17
+    21300038: 8-bit-mario-enemiessprites-kajekvvd_18
+    21300040: 8-bit-mario-enemiessprites-kajekvvd_19
+    21300042: 8-bit-mario-enemiessprites-kajekvvd_20
+    21300044: 8-bit-mario-enemiessprites-kajekvvd_21
+    21300046: 8-bit-mario-enemiessprites-kajekvvd_22
+    21300048: 8-bit-mario-enemiessprites-kajekvvd_23
+    21300050: 8-bit-mario-enemiessprites-kajekvvd_24
+    21300052: 8-bit-mario-enemiessprites-kajekvvd_25
+    21300054: 8-bit-mario-enemiessprites-kajekvvd_26
+    21300056: 8-bit-mario-enemiessprites-kajekvvd_27
+    21300058: 8-bit-mario-enemiessprites-kajekvvd_28
+    21300060: 8-bit-mario-enemiessprites-kajekvvd_29
+    21300062: 8-bit-mario-enemiessprites-kajekvvd_30
+    21300064: 8-bit-mario-enemiessprites-kajekvvd_31
+    21300066: 8-bit-mario-enemiessprites-kajekvvd_32
+    21300068: 8-bit-mario-enemiessprites-kajekvvd_33
+    21300070: 8-bit-mario-enemiessprites-kajekvvd_34
+    21300072: 8-bit-mario-enemiessprites-kajekvvd_35
+    21300074: 8-bit-mario-enemiessprites-kajekvvd_36
+    21300076: 8-bit-mario-enemiessprites-kajekvvd_37
+    21300078: 8-bit-mario-enemiessprites-kajekvvd_38
+    21300080: 8-bit-mario-enemiessprites-kajekvvd_39
+    21300082: 8-bit-mario-enemiessprites-kajekvvd_40
+    21300084: 8-bit-mario-enemiessprites-kajekvvd_41
+    21300086: 8-bit-mario-enemiessprites-kajekvvd_42
+    21300088: 8-bit-mario-enemiessprites-kajekvvd_43
+    21300090: 8-bit-mario-enemiessprites-kajekvvd_44
+    21300092: 8-bit-mario-enemiessprites-kajekvvd_45
+    21300094: 8-bit-mario-enemiessprites-kajekvvd_46
+    21300096: 8-bit-mario-enemiessprites-kajekvvd_47
+    21300098: 8-bit-mario-enemiessprites-kajekvvd_48
+    21300100: 8-bit-mario-enemiessprites-kajekvvd_49
+    21300102: 8-bit-mario-enemiessprites-kajekvvd_50
+    21300104: 8-bit-mario-enemiessprites-kajekvvd_51
+    21300106: 8-bit-mario-enemiessprites-kajekvvd_52
+    21300108: 8-bit-mario-enemiessprites-kajekvvd_53
+    21300110: 8-bit-mario-enemiessprites-kajekvvd_54
+    21300112: 8-bit-mario-enemiessprites-kajekvvd_55
+    21300114: 8-bit-mario-enemiessprites-kajekvvd_56
+    21300116: 8-bit-mario-enemiessprites-kajekvvd_57
+    21300118: 8-bit-mario-enemiessprites-kajekvvd_58
+    21300120: 8-bit-mario-enemiessprites-kajekvvd_59
+    21300122: 8-bit-mario-enemiessprites-kajekvvd_60
+    21300124: 8-bit-mario-enemiessprites-kajekvvd_61
+    21300126: 8-bit-mario-enemiessprites-kajekvvd_62
+    21300128: 8-bit-mario-enemiessprites-kajekvvd_63
+    21300130: 8-bit-mario-enemiessprites-kajekvvd_64
+    21300132: 8-bit-mario-enemiessprites-kajekvvd_65
+    21300134: 8-bit-mario-enemiessprites-kajekvvd_66
+    21300136: 8-bit-mario-enemiessprites-kajekvvd_67
+    21300138: 8-bit-mario-enemiessprites-kajekvvd_68
+    21300140: 8-bit-mario-enemiessprites-kajekvvd_69
+    21300142: 8-bit-mario-enemiessprites-kajekvvd_70
+    21300144: 8-bit-mario-enemiessprites-kajekvvd_71
+    21300146: 8-bit-mario-enemiessprites-kajekvvd_72
+    21300148: 8-bit-mario-enemiessprites-kajekvvd_73
+    21300150: 8-bit-mario-enemiessprites-kajekvvd_74
+    21300152: 8-bit-mario-enemiessprites-kajekvvd_75
+    21300154: 8-bit-mario-enemiessprites-kajekvvd_76
+    21300156: 8-bit-mario-enemiessprites-kajekvvd_77
+    21300158: 8-bit-mario-enemiessprites-kajekvvd_78
+    21300160: 8-bit-mario-enemiessprites-kajekvvd_79
+    21300162: 8-bit-mario-enemiessprites-kajekvvd_80
+    21300164: 8-bit-mario-enemiessprites-kajekvvd_81
+    21300166: 8-bit-mario-enemiessprites-kajekvvd_82
+    21300168: 8-bit-mario-enemiessprites-kajekvvd_83
+    21300170: 8-bit-mario-enemiessprites-kajekvvd_84
+    21300172: 8-bit-mario-enemiessprites-kajekvvd_85
+    21300174: 8-bit-mario-enemiessprites-kajekvvd_86
+    21300176: 8-bit-mario-enemiessprites-kajekvvd_87
+    21300178: 8-bit-mario-enemiessprites-kajekvvd_88
+    21300180: 8-bit-mario-enemiessprites-kajekvvd_89
+    21300182: 8-bit-mario-enemiessprites-kajekvvd_90
+    21300184: 8-bit-mario-enemiessprites-kajekvvd_91
+    21300186: 8-bit-mario-enemiessprites-kajekvvd_92
+    21300188: 8-bit-mario-enemiessprites-kajekvvd_93
+    21300190: 8-bit-mario-enemiessprites-kajekvvd_94
+    21300192: 8-bit-mario-enemiessprites-kajekvvd_95
+    21300194: 8-bit-mario-enemiessprites-kajekvvd_96
+    21300196: 8-bit-mario-enemiessprites-kajekvvd_97
+    21300198: 8-bit-mario-enemiessprites-kajekvvd_98
+    21300200: 8-bit-mario-enemiessprites-kajekvvd_99
+    21300202: 8-bit-mario-enemiessprites-kajekvvd_100
+    21300204: 8-bit-mario-enemiessprites-kajekvvd_101
+    21300206: 8-bit-mario-enemiessprites-kajekvvd_102
+    21300208: 8-bit-mario-enemiessprites-kajekvvd_103
+    21300210: 8-bit-mario-enemiessprites-kajekvvd_104
+    21300212: 8-bit-mario-enemiessprites-kajekvvd_105
+    21300214: 8-bit-mario-enemiessprites-kajekvvd_106
+    21300216: 8-bit-mario-enemiessprites-kajekvvd_107
+    21300218: 8-bit-mario-enemiessprites-kajekvvd_108
+    21300220: 8-bit-mario-enemiessprites-kajekvvd_109
+    21300222: 8-bit-mario-enemiessprites-kajekvvd_110
+    21300224: 8-bit-mario-enemiessprites-kajekvvd_111
+    21300226: 8-bit-mario-enemiessprites-kajekvvd_112
+    21300228: 8-bit-mario-enemiessprites-kajekvvd_113
+    21300230: 8-bit-mario-enemiessprites-kajekvvd_114
+    21300232: 8-bit-mario-enemiessprites-kajekvvd_115
+    21300234: 8-bit-mario-enemiessprites-kajekvvd_116
+    21300236: 8-bit-mario-enemiessprites-kajekvvd_117
+    21300238: 8-bit-mario-enemiessprites-kajekvvd_118
+    21300240: 8-bit-mario-enemiessprites-kajekvvd_119
+    21300242: 8-bit-mario-enemiessprites-kajekvvd_120
+    21300244: 8-bit-mario-enemiessprites-kajekvvd_121
+    21300246: 8-bit-mario-enemiessprites-kajekvvd_122
+    21300248: 8-bit-mario-enemiessprites-kajekvvd_123
+    21300250: 8-bit-mario-enemiessprites-kajekvvd_124
+    21300252: 8-bit-mario-enemiessprites-kajekvvd_125
+    21300254: 8-bit-mario-enemiessprites-kajekvvd_126
+    21300256: 8-bit-mario-enemiessprites-kajekvvd_127
+    21300258: 8-bit-mario-enemiessprites-kajekvvd_128
+    21300260: 8-bit-mario-enemiessprites-kajekvvd_129
+    21300262: 8-bit-mario-enemiessprites-kajekvvd_130
+    21300264: 8-bit-mario-enemiessprites-kajekvvd_131
+    21300266: 8-bit-mario-enemiessprites-kajekvvd_132
+    21300268: 8-bit-mario-enemiessprites-kajekvvd_133
+    21300270: 8-bit-mario-enemiessprites-kajekvvd_134
+    21300272: 8-bit-mario-enemiessprites-kajekvvd_135
+    21300274: 8-bit-mario-enemiessprites-kajekvvd_136
+    21300276: 8-bit-mario-enemiessprites-kajekvvd_137
+    21300278: 8-bit-mario-enemiessprites-kajekvvd_138
+    21300280: 8-bit-mario-enemiessprites-kajekvvd_139
+    21300282: 8-bit-mario-enemiessprites-kajekvvd_140
+    21300284: 8-bit-mario-enemiessprites-kajekvvd_141
+    21300286: 8-bit-mario-enemiessprites-kajekvvd_142
+    21300288: 8-bit-mario-enemiessprites-kajekvvd_143
+    21300290: 8-bit-mario-enemiessprites-kajekvvd_144
+    21300292: 8-bit-mario-enemiessprites-kajekvvd_145
+    21300294: 8-bit-mario-enemiessprites-kajekvvd_146
+    21300296: 8-bit-mario-enemiessprites-kajekvvd_147
+    21300298: 8-bit-mario-enemiessprites-kajekvvd_148
+    21300300: 8-bit-mario-enemiessprites-kajekvvd_149
+    21300302: 8-bit-mario-enemiessprites-kajekvvd_150
+    21300304: 8-bit-mario-enemiessprites-kajekvvd_151
+    21300306: 8-bit-mario-enemiessprites-kajekvvd_152
+    21300308: 8-bit-mario-enemiessprites-kajekvvd_153
+    21300310: 8-bit-mario-enemiessprites-kajekvvd_154
+    21300312: 8-bit-mario-enemiessprites-kajekvvd_155
+    21300314: 8-bit-mario-enemiessprites-kajekvvd_156
+    21300316: 8-bit-mario-enemiessprites-kajekvvd_157
+    21300318: 8-bit-mario-enemiessprites-kajekvvd_158
+    21300320: 8-bit-mario-enemiessprites-kajekvvd_159
+    21300322: 8-bit-mario-enemiessprites-kajekvvd_160
+    21300324: 8-bit-mario-enemiessprites-kajekvvd_161
+    21300326: 8-bit-mario-enemiessprites-kajekvvd_162
+    21300328: 8-bit-mario-enemiessprites-kajekvvd_163
+    21300330: 8-bit-mario-enemiessprites-kajekvvd_164
+    21300332: 8-bit-mario-enemiessprites-kajekvvd_165
+    21300334: 8-bit-mario-enemiessprites-kajekvvd_166
+    21300336: 8-bit-mario-enemiessprites-kajekvvd_167
+    21300338: 8-bit-mario-enemiessprites-kajekvvd_168
+    21300340: 8-bit-mario-enemiessprites-kajekvvd_169
+    21300342: 8-bit-mario-enemiessprites-kajekvvd_170
+    21300344: 8-bit-mario-enemiessprites-kajekvvd_171
+    21300346: 8-bit-mario-enemiessprites-kajekvvd_172
+    21300348: 8-bit-mario-enemiessprites-kajekvvd_173
+    21300350: 8-bit-mario-enemiessprites-kajekvvd_174
+    21300352: 8-bit-mario-enemiessprites-kajekvvd_175
+    21300354: 8-bit-mario-enemiessprites-kajekvvd_176
+    21300356: 8-bit-mario-enemiessprites-kajekvvd_177
+    21300358: 8-bit-mario-enemiessprites-kajekvvd_178
+    21300360: 8-bit-mario-enemiessprites-kajekvvd_179
+    21300362: 8-bit-mario-enemiessprites-kajekvvd_180
+    21300364: 8-bit-mario-enemiessprites-kajekvvd_181
+    21300366: 8-bit-mario-enemiessprites-kajekvvd_182
+    21300368: 8-bit-mario-enemiessprites-kajekvvd_183
+    21300370: 8-bit-mario-enemiessprites-kajekvvd_184
+    21300372: 8-bit-mario-enemiessprites-kajekvvd_185
+    21300374: 8-bit-mario-enemiessprites-kajekvvd_186
+    21300376: 8-bit-mario-enemiessprites-kajekvvd_187
+    21300378: 8-bit-mario-enemiessprites-kajekvvd_188
+    21300380: 8-bit-mario-enemiessprites-kajekvvd_189
+    21300382: 8-bit-mario-enemiessprites-kajekvvd_190
+    21300384: 8-bit-mario-enemiessprites-kajekvvd_191
+    21300386: 8-bit-mario-enemiessprites-kajekvvd_192
+    21300388: 8-bit-mario-enemiessprites-kajekvvd_193
+    21300390: 8-bit-mario-enemiessprites-kajekvvd_194
+    21300392: 8-bit-mario-enemiessprites-kajekvvd_195
+    21300394: 8-bit-mario-enemiessprites-kajekvvd_196
+    21300396: 8-bit-mario-enemiessprites-kajekvvd_197
+    21300398: 8-bit-mario-enemiessprites-kajekvvd_198
+    21300400: 8-bit-mario-enemiessprites-kajekvvd_199
+    21300402: 8-bit-mario-enemiessprites-kajekvvd_200
+    21300404: 8-bit-mario-enemiessprites-kajekvvd_201
+    21300406: 8-bit-mario-enemiessprites-kajekvvd_202
+    21300408: 8-bit-mario-enemiessprites-kajekvvd_203
+    21300410: 8-bit-mario-enemiessprites-kajekvvd_204
+    21300412: 8-bit-mario-enemiessprites-kajekvvd_205
+    21300414: 8-bit-mario-enemiessprites-kajekvvd_211
+    21300416: 8-bit-mario-enemiessprites-kajekvvd_212
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 8-bit-mario-enemiessprites-kajekvvd_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 532
+        width: 18
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 532
+        width: 18
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 532
+        width: 19
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 532
+        width: 19
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 820
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 820
+        width: 162
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 830
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_7
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 825
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_8
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 823
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_9
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 798
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_10
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 798
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_11
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 809
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_12
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 809
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_13
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 809
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_14
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 807
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_15
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 807
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_16
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 807
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 785
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 789
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 789
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 781
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 780
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 776
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 775
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_24
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 749
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_25
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 749
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_26
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 775
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_27
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 775
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_28
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 776
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_29
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 775
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_30
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 776
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_31
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 798
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 749
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 749
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 749
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_35
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 775
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_36
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 750
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_37
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 750
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_38
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 745
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_39
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 745
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_40
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 743
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_41
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 743
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 741
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 735
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_44
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 735
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_45
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 735
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_46
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 735
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 746
+        width: 99
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_48
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 736
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_49
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 736
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_50
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 736
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_51
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 736
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_52
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 736
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_53
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 737
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_54
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 750
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_55
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 745
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_56
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 743
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 711
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 711
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 711
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 695
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_61
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 695
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_62
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 695
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_63
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 695
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_64
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 716
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_65
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 693
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_66
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 693
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_67
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 699
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_68
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 699
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_69
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 699
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_70
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 699
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_71
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 699
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_72
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 699
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_73
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 706
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_74
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 706
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_75
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 706
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_76
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 683
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_77
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 683
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_78
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 681
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_79
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 681
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_80
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 674
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_81
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 674
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_82
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 674
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_83
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 689
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_84
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 656
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_85
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 656
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_86
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 656
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_87
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 656
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_88
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 683
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_89
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 681
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_90
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 655
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_91
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 655
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_92
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 655
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_93
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 655
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_94
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 659
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_95
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 597
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_96
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 649
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_97
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 646
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_98
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 646
+        width: 130
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_99
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 665
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_100
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 665
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_101
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 665
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_102
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 649
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_103
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 649
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_104
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 649
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_105
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 619
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_106
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 635
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_107
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 635
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_108
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 635
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_109
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 651
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_110
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 619
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_111
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 622
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_112
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 622
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_113
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 629
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_114
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 629
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_115
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 595
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_116
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 595
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_117
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 615
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_118
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 612
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_119
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 619
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_120
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 532
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_121
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 532
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_122
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 615
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_123
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 615
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_124
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 615
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_125
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 616
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_126
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 621
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_127
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 607
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_128
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 607
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_129
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 607
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_130
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 589
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_131
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 589
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_132
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 572
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_133
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 572
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_134
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 572
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_135
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 572
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_136
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 582
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_137
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 532
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_138
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 532
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_139
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 577
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_140
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 577
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_141
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 577
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_142
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 575
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_143
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 591
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_144
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 565
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_145
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 565
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_146
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 565
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_147
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 581
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_148
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 581
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_149
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 549
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_150
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 549
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_151
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 549
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_152
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 547
+        width: 99
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_153
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 538
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_154
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 538
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_155
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 538
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_156
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 521
+        width: 163
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_157
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 491
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_158
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 542
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_159
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 528
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_160
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 527
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_161
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 535
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_162
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_163
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 487
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_164
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 487
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_165
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 478
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_166
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 478
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_167
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 491
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_168
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 491
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_169
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 501
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_170
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 495
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_171
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 384
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_172
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 384
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_173
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 384
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_174
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 384
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_175
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 408
+        width: 131
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_176
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 441
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_177
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 425
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_178
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 425
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_179
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 408
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_180
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 461
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_181
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 447
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_182
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 463
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_183
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 431
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_184
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 463
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_185
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 384
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_186
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 384
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_187
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 384
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_188
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 403
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_189
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 408
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_190
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 408
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_191
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 418
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_192
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 411
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_193
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 431
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_194
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 361
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_195
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 368
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_196
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 337
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_197
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 337
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_198
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 337
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_199
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 337
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_200
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 388
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_201
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 349
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_202
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 284
+        width: 122
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_203
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 249
+        width: 99
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_204
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 250
+        width: 116
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_205
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 229
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_211
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 156
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8-bit-mario-enemiessprites-kajekvvd_212
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 12
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
