@@ -24,3 +24,5 @@ function OnTriggerEnter2D(other : Collider2D){
 	//Destroy(gameObject);
 //}
 >>>>>>> origin/master
+
+//VUPTPS02028 was here
